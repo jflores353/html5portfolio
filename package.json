@@ -1,0 +1,14 @@
+{
+  "name": "html5portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site built with HTML5up template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Gabe Flores",
+  "license": "MIT"
+}
